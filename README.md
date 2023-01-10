@@ -1,4 +1,4 @@
-<p align="center"><img src="/docs/logo.svg?sanitize=true&raw=true" width="400"></p>
+<p align="center"><img src="/docs/logo.png?sanitize=true&raw=true" width="400"></p>
 
 <hr/>
 <p align="center">
