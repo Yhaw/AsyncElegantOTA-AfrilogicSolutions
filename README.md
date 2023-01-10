@@ -18,29 +18,22 @@
 AsyncElegantOTA provides a beautiful interface to upload Over the Air `.bin` updates to your ESP Modules with precise status and progress displayed over UI. This Library shows the current upload progress of your OTA and once finished, it will display the status of your OTA. This Version of Library uses AsyncWebServer. Thanks to @me-no-dev for a wonderful webserver library.
 </p>
 
-<br>
-<br>
-
-<h2 align="center">Preview</h2>
-<p align="center"><img src="/docs/elegantOtaDemo.gif?raw=true"></p>
 
 <br>
 <br>
 
 <h2>How to Install</h2>
 
-###### Directly Through Arduino IDE ( Currently Submitted for Approval. Use Mannual Install till it gets Approved.)
-Go to Sketch > Include Library > Library Manager > Search for "AsyncElegantOTA" > Install
 
 ###### Manual Install
 
-For Windows: Download the [Repository](https://github.com/ayushsharma82/AsyncElegantOTA/archive/master.zip) and extract the .zip in Documents>Arduino>Libraries>{Place "ElegantOTA" folder Here}
+For Windows: Download the [Repository](https://github.com/Yhaw/AsyncElegantOTA-AfrilogicSolutions.git) and extract the .zip in Documents>Arduino>Libraries>{Place "ElegantOTA-AfrilogicSolutions" folder Here}
 
-For Linux: Download the [Repository](https://github.com/ayushsharma82/AsyncElegantOTA/archive/master.zip) and extract the .zip in Sketchbook>Libraries>{Place "ElegantOTA" folder Here}
+For Linux: Download the [Repository](https://github.com/Yhaw/AsyncElegantOTA-AfrilogicSolutions.git) and extract the .zip in Sketchbook>Libraries>{Place "ElegantOTA-AfrilogicSolutions" folder Here}
 
 ###### Manually through IDE
 
-Download the [Repository](https://github.com/ayushsharma82/AsyncElegantOTA/archive/master.zip), Go to Sketch>Include Library>Add .zip Library> Select the Downloaded .zip File.
+Download the [Repository](https://github.com/Yhaw/AsyncElegantOTA-AfrilogicSolutions.git), Go to Sketch>Include Library>Add .zip Library> Select the Downloaded .zip File.
 
 <br>
 
@@ -205,5 +198,5 @@ If you want to donate to the author then <b>you can buy me a coffee</b>, It real
 ESP-DASH is licensed under MIT.
 <br/>
 <br/>
-<img src="https://img.shields.io/github/license/ayushsharma82/AsyncElegantOTA.svg?style=for-the-badge" />
+ 
 </div>
